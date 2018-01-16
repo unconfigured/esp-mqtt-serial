@@ -1,0 +1,7 @@
+*.bin
+esp-mqtt-serial
+user/user_config.h
+**/*.o
+**/*.away
+**/*.bkup
+**/*.swp
